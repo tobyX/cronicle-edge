@@ -68,6 +68,7 @@
 		"zxcvbn": "3.5.0"
 	},
 	"devDependencies": {
+		"pino": "^7.8.1",
 		"pixl-unit": "^1.0.10"
 	}
 }
